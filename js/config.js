@@ -3,6 +3,7 @@
  * Jangan menaruh rahasia apa pun di sini — file ini publik di GitHub Pages.
  */
 window.APP_CONFIG = {
-  GAS_URL: 'GANTI_DENGAN_URL_WEB_APP_GAS_ANDA/exec',
-  NAMA: 'SMKN 1 Berau'
+  GAS_URL:
+    "https://script.google.com/macros/s/AKfycbz78qLNSgQ6EvMwAc_N67OXdd2Y00tDsBGfF6I2WFrOb46yx5rbzi7wLZ7GowBGs-YE1A/exec",
+  NAMA: "LIPIA Jakarta",
 };
