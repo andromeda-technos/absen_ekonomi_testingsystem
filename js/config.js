@@ -4,6 +4,6 @@
  */
 window.APP_CONFIG = {
   GAS_URL:
-    "https://script.google.com/macros/s/AKfycbz78qLNSgQ6EvMwAc_N67OXdd2Y00tDsBGfF6I2WFrOb46yx5rbzi7wLZ7GowBGs-YE1A/exec",
+    "https://script.google.com/macros/s/AKfycbzD_2wpgC32PJVXtCLeQPjr-jhzpvuUcRSKVMe1y0Un-7njubDsDOSoGtc277AZUclfrA/exec",
   NAMA: "LIPIA Jakarta",
 };
